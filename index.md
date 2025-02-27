@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<!-- ![Branching](https://user-images.githubusercontent.com/1593048/236631293-b32345e4-6638-454e-b096-b69022731ccc.png) -->
-![Osaka Castle](/assets/images/osaka-castle.jpg)
+<img src="/assets/images/osaka-castle.jpg" alt="osaka-castle" width="800"/>
+<img src="https://github.com/user-attachments/assets/850cdc29-7c66-48af-ab8b-881c82bd68b7" alt="med-osaka" width="800"/>
 
 
 # Overview
