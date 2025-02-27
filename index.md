@@ -118,4 +118,4 @@ The focus areas for this workshop include, but are not limited to:
 * Yida Gu, _Chinese Academy of Sciences, China_
 
 # Sponsor
-<img src="https://github.com/codesignworkshop/2025/blob/main/assets/images/Sponsor_Logo.png" alt="drawing" width="400"/>
+<img src="https://github.com/user-attachments/assets/1f5a90a5-f561-47ff-9a3d-ec49589ea771" alt="logo" width="400"/>
