@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/images/osaka-castle.jpg" alt="osaka-castle" width="800"/>
+<img src="https://github.com/user-attachments/assets/20f6199e-f2de-4f29-a3db-730611e56dee" alt="osaka-castle" width="800"/>
 <img src="https://github.com/user-attachments/assets/850cdc29-7c66-48af-ab8b-881c82bd68b7" alt="med-osaka" width="800"/>
 
 
