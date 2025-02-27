@@ -77,21 +77,22 @@ The focus areas for this workshop include, but are not limited to:
 
 # Keynote Speaker
 * Dr. William M. Tang, _Princeton University, U.S._
-* Dr. DK Panda, _The Ohio State University, U.S._
+* Dr. Depei Qian, _Beihang University, China_
+* Dr. D.K. Panda, _The Ohio State University, U.S._
 * Dr. Xian-He Sun, _Illinois Institute of Technology, US_
 
 # Invited Speaker
-* Dr. Leon Song, _Together AI, U.S._
-* Dr. Suren Byna, _The Ohio State University, U.S._
-* Dr. Manish Parashar, _University of Utah, U.S._
 * Dr. Mathis Bode,  _Jülich Supercomputing Centre, Germany_
+* Dr. Suren Byna, _The Ohio State University, U.S._
 * Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
+* Dr. Weile Jia, _Chinese Academy of Sciences, China_
 * Dr. Guillaume Pallez, _INRIA, French_
+* Dr. Manish Parashar, _University of Utah, U.S._
 * Dr. Kentaro Sano, _RIKEN, Japan_
 * Dr. Kento Sato, _RIKEN, Japan_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
+* Dr. Leon Song, _Together AI, U.S._
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
-* Dr. Weile Jia, _Chinese Academy of Sciences, China_
 
 # Organization Committee
 
