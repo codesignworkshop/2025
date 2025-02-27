@@ -116,4 +116,7 @@ The focus areas for this workshop include, but are not limited to:
 * Fanjiang Ye, _Indiana University, U.S._
 * Yida Gu, _Chinese Academy of Sciences, China_
 
-
+# Sponsor
+<img src="/assets/images/Osaka_logo.jpg" style="width: 15%; height: 200px; display: inline-block; object-fit: cover;">
+<img src="/assets/images/CAS_logo.png" style="width: 15%; height: 200px; display: inline-block; object-fit: cover;">
+<img src="/assets/images/Huawei_logo.png" style="width: 15%; height: 200px; display: inline-block; object-fit: cover;">
