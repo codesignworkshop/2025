@@ -1,1 +1,1 @@
-Github repository for The International Workshop of CoDesign 2024
+Github repository for The 11th International Workshop on CODESIGN (CODESIGN 2025)
