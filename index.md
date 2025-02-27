@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/ce7145f9-e5a0-46e3-a407-e77eb6306915)![image](https://github.com/user-attachments/assets/7eba7e85-d880-4f0a-8377-f61e960ef588)![image](https://github.com/user-attachments/assets/dcdd16c3-f1e3-4955-8ee3-d1b2022c138a)![image](https://github.com/user-attachments/assets/740d4a2d-5e2d-4487-bece-4c646e61f56c)---
 layout: default
 ---
 
@@ -54,24 +54,21 @@ TBD
 
 # Keynote Speaker
 * Dr. William M. Tang, _Princeton University, U.S._
+* Dr. DK Panda, _The Ohio State University, U.S._
+* Dr. Xian-He Sun, _Illinois Institute of Technology, US_
 
 # Invited Speaker
-* Dr. Pete Beckman, _Northwestern University, U.S._
-* Dr. Franck Cappello, _Argonne National Laboratory, U.S._
-* Dr. Georg Hager, _Erlangen National High Performance Computing Center, Germany_
-* Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
-* Dr. Weile Jia, _Chinese Academy of Sciences, China_
-* Dr. Erwin Laure, _Max Planck Computing and Data Facility, Germany_
+* Dr. Leon Song, _Together AI, U.S._
+* Dr. Suren Byna, _The Ohio State University, U.S._
+* Dr. Manish Parashar, _University of Utah, U.S._
+* Dr. Mathis Bode,  _Jülich Supercomputing Centre, Germany_
+* Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
 * Dr. Guillaume Pallez, _INRIA, French_
 * Dr. Kentaro Sano, _RIKEN, Japan_
 * Dr. Kento Sato, _RIKEN, Japan_
-* Dr. Xian-He Sun, _Illinois Institute of Technology, US_
-* Dr. Martin Schulz, _Technical University of Munich, Germany_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
-* Dr. Gerhard Wellein, _University of Erlangen–Nuremberg, Germany_
-* Dr. Kesheng John Wu, _Lawrence Berkeley National Laboratory, U.S._
-
+* Dr. Weile Jia, _Chinese Academy of Sciences, China_
 
 # Organization Committee
 
@@ -89,7 +86,11 @@ TBD
 ### Local Chair
 * Dr. Lijun Liu, _Osaka University, Japan_
 
+### Registration Chair
+* Wenjing Huang, _Chinese Academy of Sciences, China_
+
 ### Web Chair
 * Fanjiang Ye, _Indiana University, U.S._
+* Yida Gu, _Chinese Academy of Sciences, China_
 
 
