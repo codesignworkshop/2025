@@ -99,16 +99,18 @@ The focus areas for this workshop include, but are not limited to:
 ### General Chair
 * Dr. Jack Dongarra, _University of Tennessee, U.S._
 * Dr. Ninghui Sun, _Chinese Academy of Sciences, China_
+* Dr. Lijun Liu, _Osaka University, Japan_
 
-### Program Chair
-* Dr. Sheng Di, _Argonne National Laboratory, U.S._
-* Dr. Guangming Tan, _Chinese Academy of Sciences, China_
+### Program Committee
+* Dr. Guangming Tan, _Chinese Academy of Sciences, China_ (Chair)
+* Dr. Sheng Di, _Argonne National Laboratory, U.S._ (Chair)
+* Dr. Xinhua James Lin, _Shanghai Jiao Tong University, China_
+* Dr. Torsten Hoefler, _Eidgenössische Technische Hochschule Zürich, Switzerland_
+* Dr. Torsten Hoefler, _Chinese Academy of Sciences, China_
+
 
 ### Executive Chair
 * Dr. Dingwen Tao, _Chinese Academy of Sciences, China_
-
-### Local Chair
-* Dr. Lijun Liu, _Osaka University, Japan_
 
 ### Registration Chair
 * Wenjing Huang, _Chinese Academy of Sciences, China_
