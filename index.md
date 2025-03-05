@@ -111,6 +111,7 @@ The focus areas for this workshop include, but are not limited to:
 * Dr. Torsten Hoefler, _ETH Zurich, Swizerland_
 * Dr. Weile Jia, _Chinese Academy of Sciences, China_
 * Dr. Xinhua Lin, _Shanghai Jiaotong University, China_
+* Dr. Kento Sato, _RIKEN, Japan_
 
 ### Executive Chair
 * Dr. Dingwen Tao, _Chinese Academy of Sciences, China_
