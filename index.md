@@ -84,14 +84,17 @@ The focus areas for this workshop include, but are not limited to:
 # Invited Speaker
 * Dr. Mathis Bode,  _Jülich Supercomputing Centre, Germany_
 * Dr. Suren Byna, _The Ohio State University, U.S._
+* Dr. Xuebin Chi, _Chinese Academy of Sciences, China_
 * Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
-* Dr. Weile Jia, _Chinese Academy of Sciences, China_
+* Dr. Kenli Li, _Hunan University, China_
+* Dr. Yutong Lu, _Sun Yat-sen University, China_
 * Dr. Guillaume Pallez, _INRIA, French_
 * Dr. Manish Parashar, _University of Utah, U.S._
 * Dr. Kentaro Sano, _RIKEN, Japan_
 * Dr. Kento Sato, _RIKEN, Japan_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
 * Dr. Leon Song, _Together AI, U.S._
+* Dr. Xuanhua Shi, _Huazhong University of Science and Technology, China_
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
 
 # Organization Committee
