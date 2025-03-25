@@ -96,8 +96,10 @@ The focus areas for this workshop include, but are not limited to:
 * Dr. Kento Sato, _RIKEN, Japan_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
 * Dr. Leon Song, _Together AI, U.S._
+* Dr. Jidong Zhai, _Tsinghua University, China_
 * Dr. Xuanhua Shi, _Huazhong University of Science and Technology, China_
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
+* Dr. En Shao, _Chinese Academy of Sciences, China_
 
 # Organization Committee
 
@@ -110,6 +112,7 @@ The focus areas for this workshop include, but are not limited to:
 * Dr. Guangming Tan, _Chinese Academy of Sciences, China_ (chair)
 * Dr. Sheng Di, _Argonne National Laboratory, U.S._ (chair)
 * Dr. Zizhong Chen, _CUHK (Shenzhen), China_
+* Dr. Liping Liu, _Chinese Academy of Sciences, China_
 * Dr. Torsten Hoefler, _ETH Zurich, Swizerland_
 * Dr. Weile Jia, _Chinese Academy of Sciences, China_
 * Dr. Xinhua Lin, _Shanghai Jiaotong University, China_
