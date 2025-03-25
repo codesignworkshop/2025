@@ -100,6 +100,8 @@ The focus areas for this workshop include, but are not limited to:
 * Dr. Xuanhua Shi, _Huazhong University of Science and Technology, China_
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
 * Dr. En Shao, _Chinese Academy of Sciences, China_
+* Dr. Haibing Guan, _Shanghai Jiaotong University, China_
+* Dr. Hong An, _University of Science and Technology of China, China_
 
 # Organization Committee
 
