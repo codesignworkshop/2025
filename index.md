@@ -54,22 +54,24 @@ The focus areas for this workshop include, but are not limited to:
 * 12:00-17:00 Workshop Registration  
 
 ### 2025.7.9
+* 9:00 - 10:00 Keynote I
+* 10:00 - 11:45 Invited Talks
 * 12:00 - 14:00 Welcome Lunch  
-* 14:00 - 15:00 Keynote I  
-* 15:00 - 17:45 Invited Talks  
+* 14:00 - 15:00 Keynote II  
+* 15:00 - 17:15 Invited Talks  
 * 18:00 - 20:00 Reception Banquet  
 
 ### 2025.7.10
-* 9:00 - 10:00 Keynote II  
-* 10:00 - 12:15 Invited Talks  
-* 12:15 - 14:00 Lunch  
+* 9:00 - 10:00 Keynote III  
+* 10:00 - 11:45 Invited Talks  
+* 12:00 - 14:00 Lunch  
 * 14:00 - 17:15 Invited Talks  
 * 18:00 - 20:00 Dinner  
 
 ### 2025.7.11
-* 9:00 - 10:00 KeyNote III  
-* 10:00 - 12:15 Invited Talks  
-* 12:15 - 14:00 Lunch  
+* 9:00 - 10:00 KeyNote IV  
+* 10:00 - 11:45 Invited Talks  
+* 12:00 - 14:00 Lunch  
 * 14:00 - 17:00 Panel  
 
 ### 2025.7.12
