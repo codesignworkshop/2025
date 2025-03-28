@@ -129,6 +129,3 @@ The focus areas for this workshop include, but are not limited to:
 ### Web Chair
 * Fanjiang Ye, _Indiana University, U.S._
 * Yida Gu, _Chinese Academy of Sciences, China_
-
-# Sponsor
-<img src="https://github.com/user-attachments/assets/1f5a90a5-f561-47ff-9a3d-ec49589ea771" alt="logo" width="400"/>
