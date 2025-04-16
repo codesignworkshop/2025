@@ -102,6 +102,7 @@ The focus areas for this workshop include, but are not limited to:
 * Dr. En Shao, _Chinese Academy of Sciences, China_
 * Dr. Haibing Guan, _Shanghai Jiaotong University, China_
 * Dr. Hong An, _University of Science and Technology of China, China_
+* Wenjing Huang, _Chinese Academy of Sciences, China_
 
 # Organization Committee
 
