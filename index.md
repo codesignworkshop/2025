@@ -110,6 +110,7 @@ The focus areas for this workshop include, but are not limited to:
 * Dr. Jack Dongarra, _University of Tennessee, U.S._
 * Dr. Ninghui Sun, _Chinese Academy of Sciences, China_
 * Dr. Lijun Liu, _Osaka University, Japan_
+* Dr. Jun Hirotani, _Kyoto University, Japan_
 
 ### Program Committee
 * Dr. Guangming Tan, _Chinese Academy of Sciences, China_ (chair)
