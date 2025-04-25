@@ -133,4 +133,4 @@ The focus areas for this workshop include, but are not limited to:
 * Yida Gu, _Chinese Academy of Sciences, China_
 
 # Sponsor
-<img src="https://github.com/user-attachments/assets/a525f95f-995e-409a-87b1-f006d14c7848" alt="logo" width="400"/>
+<img src="assets/images/Sponsor_Logo.png" alt="logo" width="400"/>
