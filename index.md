@@ -91,7 +91,7 @@ The focus areas for this workshop include, but are not limited to:
 * Dr. Kenli Li, _Hunan University, China_
 * Dr. Yutong Lu, _Sun Yat-sen University, China_
 * Dr. Guillaume Pallez, _INRIA, French_
-* Dr. Manish Parashar, _University of Utah, U.S._
+* Dr. D.K. Panda, _The Ohio State University, U.S._
 * Dr. Kentaro Sano, _RIKEN, Japan_
 * Dr. Kento Sato, _RIKEN, Japan_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
@@ -100,9 +100,9 @@ The focus areas for this workshop include, but are not limited to:
 * Dr. Xuanhua Shi, _Huazhong University of Science and Technology, China_
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
 * Dr. En Shao, _Chinese Academy of Sciences, China_
-* Dr. Haibing Guan, _Shanghai Jiaotong University, China_
-* Dr. Hong An, _University of Science and Technology of China, China_
-* Wenjing Huang, _Chinese Academy of Sciences, China_
+* Dr. Sheng Di, _Argonne National Laboratory, U.S._
+* Dr. Weile Jia, _Chinese Academy of Sciences, China_
+* Ms. Wenjing Huang, _Chinese Academy of Sciences, China_
 
 # Organization Committee
 
